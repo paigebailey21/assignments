@@ -56,3 +56,15 @@ The first step in pick the best bird is to weigh them all and eliminate all the 
 
 ## Preparation/Transportation
 A clean bird is a must when it comes to show time. The birds need to be washed 2-3 days before the show. The bird needs to be washed in a warm room around 70 degrees or outside on a warm day. The best soap to use is a mild shampoo or a soft soap. Detergents can be too hard on the feathers and dry them out. Do not put the bird’s head under water. After the bird is out of the bath move it to a tub of warm water with a little white vinegar to rinse the feathers. It is important to get all the soap out of the feathers. The last part is to get the birds to the show. When transporting the birds do not over crowd them, because they will get stressed or hurt. When taking them in/out of containers let them go head first to reduce injury. Sometimes it is nice to bring a few extra birds in case you find yourself in a pinch. Now you should be all set to raise a flock of broilers. 
+
+Work Cited 
+ 
+Albertsen, Franklin D. "Market Broiler Pens Their Care and Management for 4-H and FFA Members." Market Broiler Pens (n.d.): 1-21. IA State University. Iowa State University. Web. 20 Jan. 2017. <http://www.extension.iastate.edu/4hfiles/agriculture/MarketBroilerCare_Management.pdf>. 
+ 
+Lyons, Jesse J. "Small Flock Series: Brooding and Growing Chicks." Small Flock Series: Growing Chicks | UofM. University of Missouri, n.d. Web. 22 Jan. 2017. <http://extension.missouri.edu/p/G8351>. 
+ 
+Hamre, Melvin L. "Rearing Chicks and Pullets for the Small Laying Flock." Rearing Chicks and Pullets for the Small Laying Flock. University of Minnesota, n.d. Web. 22 Jan. 2017. <http://www.extension.umn.edu/food/small-farms/livestock/poultry/rearing-chicks-and-pullets-for-the-small-laying-flock/index.html>. 
+ 
+Watkins, Susan. "Raising Broilers and Turkeys for Competition." Raising Broilers and Turkeys for Competition - FSA8004 (n.d.): 1-6. Uex.edu. Agriculture and Natural Resources. Web. 20 Jan. 2017. <http://www.uaex.edu/publications/PDF/FSA-8004.pdf>. 
+ 
+Davis, Mary. "Free Homemade Chicken Brooder Plans." Free Homemade Chicken Brooder Plans. N.p., May 2015. Web. 22 Jan. 2017. <http://www.raisingbackyardchickens101.com/chicken-brooder.html>. 
