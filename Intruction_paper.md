@@ -21,10 +21,15 @@ There are an endless number of places a flock of chickens can be kept. After the
 
 ## Brooding
 **Chick Temperature At Various Stage**
-> 1 day- 1 week 90°F
-> 1–2 weeks 85°F
-> 2–3 weeks 80°F  
-> 3–4 weeks 75°F
->4 weeks–adult 70°F
+
+1 day- 1 week 90°F
+
+1–2 weeks 85°F
+
+2–3 weeks 80°F  
+
+3–4 weeks 75°F
+
+4 weeks–adult 70°F
 
 The first week of a chick's life is the most important. They need to proper heat in order to grow. If the chicks get cold they will not grow properly, but if they are too hot they can become dehydrated. Therefore, it is best to begin heating the pen 24 hours before the chicks arrive. It is important to check the temperature at floor level, since that is where the chicks are. So, keep a thermometer in the pen at the same height as the birds. After the first week gradually bring the temperature down by five degrees each week. Electric heat lamps with aluminum reflectors/shields are great short-term heat sources, for the young chicks. 125-watt infrared bulbs are recommended. It is best to hang the lamp or lamps about 18 inches off the surface of the litter. Be sure the lamps are fastened securely so they cannot fall and catch the litter on fire. Place the feeders pretty close to the lamps and make sure the waterers are far enough away so water cannot splash up and hit the lamps. 
