@@ -63,8 +63,6 @@ Albertsen, Franklin D. "Market Broiler Pens Their Care and Management for 4-H an
  
 Lyons, Jesse J. "Small Flock Series: Brooding and Growing Chicks." Small Flock Series: Growing Chicks | UofM. University of Missouri, n.d. Web. 22 Jan. 2017. <http://extension.missouri.edu/p/G8351>. 
  
-Hamre, Melvin L. "Rearing Chicks and Pullets for the Small Laying Flock." Rearing Chicks and Pullets for the Small Laying Flock. University of Minnesota, n.d. Web. 22 Jan. 2017. <http://www.extension.umn.edu/food/small-farms/livestock/poultry/rearing-chicks-and-pullets-for-the-small-laying-flock/index.html>. 
- 
 Watkins, Susan. "Raising Broilers and Turkeys for Competition." Raising Broilers and Turkeys for Competition - FSA8004 (n.d.): 1-6. Uex.edu. Agriculture and Natural Resources. Web. 20 Jan. 2017. <http://www.uaex.edu/publications/PDF/FSA-8004.pdf>. 
  
 Davis, Mary. "Free Homemade Chicken Brooder Plans." Free Homemade Chicken Brooder Plans. N.p., May 2015. Web. 22 Jan. 2017. <http://www.raisingbackyardchickens101.com/chicken-brooder.html>. 
