@@ -20,7 +20,7 @@ Commercial broiler producers typically use the Cornish/Plymouth Rock cross for t
 ## Houseing/Enclosure
 The best time to raise chick is in the late spring or summer, because the brooding/ housing requirements are a lot less. The facility and space broilers need during brooding does not need to be complicated or costly. People brood their chicks in all kinds of places like the corner of the garage, shed, barn, or other buildings using simple temporary pens. The brooding pens are usually between 2-3 feet tall, as long as the chicks are safe for other animals. The possibilities are endless when it comes to building a pen: cardboard, kiddy pools, plastic containers, chicken wire, chipboard, or just about anything.Chicks need half a square foot of brooding space per chick for the first four weeks.
 
-! Pictures
+![Chick Enclosure](https://github.com/paigebailey21/assignments/blob/master/brooder2.jpg)
 
 There are an endless number of places a flock of chickens can be kept. After the brooding period (this will be discussed later on), the chickens can be reared in a coop, stock trailer, fenced-in range/yard, or barn as long as they have shelter to protect them from the elements. THe growing birds need one square foot of space for weeks four through seven. The building/shelter needs to have openings on two or three sides, so there will be plenty of fresh air for the broilers as they grow larger. However, the openings will need to be closed or covered during cold weather.
 
