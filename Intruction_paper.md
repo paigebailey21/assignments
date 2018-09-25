@@ -38,7 +38,7 @@ There should always be about 2-4 inches of dry litter on the floor for young chi
 
 The first week of a chick's life is the most important. They need to proper heat in order to grow. If the chicks get cold they will not grow properly, but if they are too hot they can become dehydrated. Therefore, it is best to begin heating the pen 24 hours before the chicks arrive. Heat lamps are usually available at a hardware store. It is important to check the temperature at floor level, since that is where the chicks are. So, keep a thermometer in the pen at the same height as the birds. After the first week gradually bring the temperature down by five degrees each week. Electric heat lamps with aluminum reflectors/shields are great short-term heat sources, for the young chicks. 125-watt infrared bulbs are recommended. It is best to hang the lamp or lamps about 18 inches off the surface of the litter. Be sure the lamps are fastened securely so they cannot fall and catch the litter on fire. Place the feeders pretty close to the lamps and make sure the waterers are far enough away so water cannot splash up and hit the lamps.
 
-! Picture
+![Brooding Area] (https://github.com/paigebailey21/assignments/blob/master/brood%20box%202.jpg)
 
 ## Water
 One five-gallon waterer will be sufficient for 50 starting chicks. Just be sure it is kept clean, fresh, and filled at all times-this is what make automatic waterers so handy.  
