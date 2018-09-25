@@ -24,7 +24,8 @@ There should always be about 2-4 inches of dry litter on the floor for young chi
 
 ## Brooding
 **Chick Temperature At Various Stage**
-1 day- 1 week 90°F
+
+! List: 1 day- 1 week 90°F
 1–2 weeks 85°F
 2–3 weeks 80°F  
 3–4 weeks 75°F
