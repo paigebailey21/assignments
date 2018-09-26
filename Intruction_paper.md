@@ -1,7 +1,7 @@
 # How To Raise Broilers For a Fair
 
 ## Introduction
-A poultry chain project is designed to teach children the recommended management practices for taking care of a flock. This guide is written for the parents of the 4-H member. These instructions will help you set a child up for success, by providing information about the equipment needed and the basic knowledge needed to raise a flock. 
+A poultry chain project is designed to teach children the recommended management practices for taking care of a flock. This guide is written for the parents of the 4-H member. These instructions will help you set a child up for success, by providing information about the equipment needed and the basic knowledge needed to raise a flock. Chicks are very fragile for the first few weeks of life, it is imperative that you know what ideal environmental conditions are and be able to replicate them. 
 
 
 
@@ -21,7 +21,7 @@ The best time to raise chicks is in the late spring or summer, because the brood
 ![Chick Enclosure](https://github.com/paigebailey21/assignments/blob/master/brooder2.jpg)
 ![Chick Houseing](https://github.com/paigebailey21/assignments/blob/master/images%20001.jfif)
 
-There are endless numbers of places a flock of chickens can be kept. After the brooding period (this will be discussed later on), the chickens can be reared in a coop, stock trailer, fenced-in range/yard, or barn as long as they have shelter to protect them from the elements. THe growing birds need one square foot of space for weeks four through seven. The building/shelter needs to have openings on two or three sides, so there will be plenty of fresh air for the broilers as they grow larger. However, the openings will need to be closed or covered during cold weather.
+There are endless numbers of places a flock of chickens can be kept. After the brooding period (this will be discussed later on), the chickens can be reared in a coop, stock trailer, fenced-in range/yard, or barn as long as they have shelter to protect them from the elements. The growing birds need one square foot of space for weeks four through seven. The building/shelter needs to have openings on two or three sides, so there will be plenty of fresh air for the broilers as they grow larger. However, the openings will need to be closed or covered during cold weather.
 
 ## Bedding
 There should always be about 2-4 inches of dry litter on the floor for young chicks. When the birds are in the grow out pen there should always be about 3-6 inches of dry litter. The best material to use for the bedding is rice hulls, sawdust, cane fiber, or dried peat moss. Avoid cedar or treated wood chips, because they can be toxic to the birds. Shredded newspaper and ground hay make poor bedding; they aren’t very absorbent and they tend to cake up and stay damp. The floor of the shelter has to be kept dry, to keep the broilers happy and healthy. If the floor gets wet and slippery the chickens could injure themselves. If the litter gets packed and gross the birds could become sick.   
