@@ -1,10 +1,12 @@
 # How To Raise Broilers For a Fair
 
 ## Introduction
-A poultry chain project is designed to teach children the recommended management practices for taking care of a flock. This guide is written for the parents of the 4-H memeber. These instructions will help you set a child up for success, by providing information about the equipment needed and the basic knowlege needed to raise a flock. 
+A poultry chain project is designed to teach children the recommended management practices for taking care of a flock. This guide is written for the parents of the 4-H member. These instructions will help you set a child up for success, by providing information about the equipment needed and the basic knowledge needed to raise a flock. 
+
+
 
 ## Flock Type
-The first step in this project is to pick what breed of birds you want to raise. There are so many different breeds of chickens in the world, you need to find the one that fit your specific needs. For this project twenty-five to fifty chicks should be purchased. Since this is a broiler project, a meat type bird would be the best choice. Here are a few great breeds to use for this project: 
+The first step in this project is to pick what breed of birds you want to raise. There are so many different breeds of chickens in the world, you need to find the one that fits your specific needs. For this project twenty-five to fifty chicks should be purchased. Since this is a broiler project, a meat type bird would be the best choice. Here are a few great breeds to use for this project: 
 - Cornish
 - White Plymouth Rock
 - Brahma
