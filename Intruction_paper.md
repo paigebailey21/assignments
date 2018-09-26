@@ -65,6 +65,12 @@ The first step in pick the best bird is to weigh them all and eliminate all the 
 ## Preparation/Transportation
 
 ## FAQ
+How long does a chicken live?
+
+How high should a perch be?
+
+Can I feed my chicken snacks?
+ Of course! Bugs, fruit, cereal, and vegetable peels make great treats.
 
 Work Cited 
  
