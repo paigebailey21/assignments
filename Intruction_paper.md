@@ -63,7 +63,7 @@ The first step in pick the best bird is to weigh them all and eliminate all the 
 How long does a chicken live?
 
 How high should a perch be?
-
+- The lowest perch should be somewhere between 16- 22 inches off the ground. 
 Can I feed my chicken snacks?
 - Of course! Bugs, fruit, cereal, and vegetable peels make great treats.
 
