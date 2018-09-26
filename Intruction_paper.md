@@ -64,12 +64,14 @@ A clean bird is a must when it comes to show time. The birds need to be washed 2
 ## FAQ
 How long does a chicken live?
 - Birds in a healthy stable environment can live as long as eight years.
+
 How high should a perch be?
 - The lowest perch should be somewhere between 16- 22 inches off the ground. 
+
 Can I feed my chicken snacks?
 - Of course! Bugs, fruit, cereal, and vegetable peels make great treats.
 
-Work Cited 
+## Works Cited 
  
 Albertsen, Franklin D. "Market Broiler Pens Their Care and Management for 4-H and FFA Members." Market Broiler Pens (n.d.): 1-21. IA State University. Iowa State University. Web. 20 Jan. 2017. <http://www.extension.iastate.edu/4hfiles/agriculture/MarketBroilerCare_Management.pdf>. 
  
