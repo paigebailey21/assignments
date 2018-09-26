@@ -61,7 +61,7 @@ The first step in pick the best bird is to weigh them all and eliminate all the 
 
 ## FAQ
 How long does a chicken live?
-
+- Birds in a healthy stable environment can live as long as eight years.
 How high should a perch be?
 - The lowest perch should be somewhere between 16- 22 inches off the ground. 
 Can I feed my chicken snacks?
