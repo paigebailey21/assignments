@@ -44,9 +44,11 @@ The first week of a chick's life is the most important. They need to proper heat
 ## Water
 One five-gallon waterer will be sufficient for 50 starting chicks. Just be sure it is kept clean, fresh, and filled at all times-this is what make automatic waterers so handy. The amount of waterer space recommended for 100 brooding chicks is: 
 
-| Age of Chicks | Water Space     |
-| ------------- | --------------- |
-| 0- 1 week     | six 1-quart jars|
+| Age of Chicks | Water Space             |
+| ------------- | ----------------------- |
+| 0- 1 week     | six 1-quart jars waters |
+| 1- 4 weeks    | two 2-gallon waters     |
+| 4- 12 weeks   | two 5-gallon waters     |
 
 ## Feeding
 One major part of growing broilers is the feed. You will need to teach the chicks to eat during the first two days by putting them in the feeders, that way it is easy to find and they learn what is eatable and what is not. For the first two weeks you will need to allow 1 inch of feeder space per chick. Then for weeks three through seven allow the birds 2 inches of feeder space. You should be able to get all the proper feed you need from your local feed store like, Powell, Tractor Supply, or Race Brother. The starter feed is usually fed for the first six weeks, and then at seven weeks it should be time to switch to the finisher feed.When stiching feed make sure this change is not abrupt, slowly integrate the new feed into their diet. The two important things to remember when feeding chickens is, keep the edge of the feeder the same height as the chicken’s back and never fill the feeders more than half full or the chick will just waste it.  
