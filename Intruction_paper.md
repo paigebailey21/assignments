@@ -65,7 +65,7 @@ How long does a chicken live?
 How high should a perch be?
 
 Can I feed my chicken snacks?
- Of course! Bugs, fruit, cereal, and vegetable peels make great treats.
+- Of course! Bugs, fruit, cereal, and vegetable peels make great treats.
 
 Work Cited 
  
