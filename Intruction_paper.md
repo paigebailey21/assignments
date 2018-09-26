@@ -42,9 +42,11 @@ The first week of a chick's life is the most important. They need to proper heat
 ![Brooding Area](https://github.com/paigebailey21/assignments/blob/master/brood%20box%202.jpg)
 
 ## Water
-One five-gallon waterer will be sufficient for 50 starting chicks. Just be sure it is kept clean, fresh, and filled at all times-this is what make automatic waterers so handy.  
+One five-gallon waterer will be sufficient for 50 starting chicks. Just be sure it is kept clean, fresh, and filled at all times-this is what make automatic waterers so handy. The amount of waterer space recommended for 100 brooding chicks is: 
 
-! Tables
+| Age of Chicks | Water Space     |
+| ------------- | --------------- |
+| 0- 1 week     | six 1-quart jars|
 
 ## Feeding
 One major part of growing broilers is the feed. You will need to teach the chicks to eat during the first two days by putting them in the feeders, that way it is easy to find and they learn what is eatable and what is not. For the first two weeks you will need to allow 1 inch of feeder space per chick. Then for weeks three through seven allow the birds 2 inches of feeder space. You should be able to get all the proper feed you need from your local feed store like, Powell, Tractor Supply, or Race Brother. The starter feed is usually fed for the first six weeks, and then at seven weeks it should be time to switch to the finisher feed.When stiching feed make sure this change is not abrupt, slowly integrate the new feed into their diet. The two important things to remember when feeding chickens is, keep the edge of the feeder the same height as the chicken’s back and never fill the feeders more than half full or the chick will just waste it.  
@@ -59,7 +61,6 @@ Good flock managers become familiar with the birds by listening and watching the
 The first step in pick the best bird is to weigh them all and eliminate all the birds outside the target weight range (eight to ten pounds. Now examine the remaining birds. They should not have any deformities, cuts, disjointed bones, huge calluses, bruises, sores, diseases, or parasites. Judges look for the minor details, so be sure to look over every inch of the birds. The ideal broiler is rectangular in shape, has a long straight breast bone, a broad set of ribs, wide back, and a full breast. When looking at meat birds crooked beaks and toes are usually disregarded, so they can be used if needed. The last thing to look at is the degree of finish or amount of fat a bird has. Without the right amount of finish a broiler will lose its eye appeal.
 
 ## Preparation/Transportation
-A clean bird is a must when it comes to show time. The birds need to be washed 2-3 days before the show. The bird needs to be washed in a warm room around 70 degrees or outside on a warm day. The best soap to use is a mild shampoo or a soft soap. Detergents can be too hard on the feathers and dry them out. Do not put the bird’s head under water. After the bird is out of the bath move it to a tub of warm water with a little white vinegar to rinse the feathers. It is important to get all the soap out of the feathers. The last part is to get the birds to the show. When transporting the birds do not over crowd them, because they will get stressed or hurt. When taking them in/out of containers let them go head first to reduce injury. Sometimes it is nice to bring a few extra birds in case you find yourself in a pinch. Now you should be all set to raise a flock of broilers. 
 
 ## FAQ
 
