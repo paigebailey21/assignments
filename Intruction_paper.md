@@ -5,6 +5,8 @@ A poultry chain project is designed to teach children the recommended management
 
 
 
+The first step is to evaluate the different breeds of birds. Next, you will need to decide where to house them and what type of bedding you can acquire. The most important aspect of raising a flock is the brooding stage; it requires meticulous temperature control. After the housing situation is taken care of, the next important factors are feed and water. It is important to also monitor the health of the birds throughout life. Only the best birds will be taken to the fair, and they also must be washed before heading to the fair. Finally, you have to get the birds to the fair safe and sound. If all these needs and processes are followed you should have a successful fair experience. 
+
 ## Flock Type
 The first step in this project is to pick what breed of birds you want to raise. There are so many different breeds of chickens in the world, you need to find the one that fits your specific needs. For this project twenty-five to fifty chicks should be purchased. Since this is a broiler project, a meat type bird would be the best choice. Here are a few great breeds to use for this project: 
 - Cornish
