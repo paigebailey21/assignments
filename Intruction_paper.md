@@ -24,7 +24,7 @@ The best time to raise chicks is in the late spring or summer, because the brood
 ![Chick Houseing](https://github.com/paigebailey21/assignments/blob/master/thKNH3NH10.jpg)
 
 There are endless numbers of places a flock of chickens can be kept. After the brooding period (this will be discussed later on), the chickens can be reared in a coop, stock trailer, fenced-in range/yard, or barn as long as they have shelter to protect them from the elements. The growing birds need one square foot of space for weeks four through seven. The building/shelter needs to have openings on two or three sides, so there will be plenty of fresh air for the broilers as they grow larger. However, the openings will need to be closed or covered during cold weather.
-
+ 
 ## Bedding
 There should always be about 2-4 inches of dry litter on the floor for young chicks. When the birds are in the grow out pen there should always be about 3-6 inches of dry litter. The best material to use for the bedding is rice hulls, sawdust, cane fiber, or dried peat moss. Avoid cedar or treated wood chips, because they can be toxic to the birds. Shredded newspaper and ground hay make poor bedding; they aren’t very absorbent and they tend to cake up and stay damp. The floor of the shelter has to be kept dry, to keep the broilers happy and healthy. If the floor gets wet and slippery the chickens could injure themselves. If the litter gets packed and gross the birds could become sick.   
 
