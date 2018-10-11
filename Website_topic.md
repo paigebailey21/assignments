@@ -18,6 +18,10 @@
 - Different Parts
 - Different Harnesses
 
+## How to register animal (maybe)
+- requirements
+- how to
+
 ## Care 
 - Typical health problems
 - Equine chiropractics
