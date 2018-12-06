@@ -84,3 +84,4 @@ Lyons, Jesse J. "Small Flock Series: Brooding and Growing Chicks." Small Flock S
 Watkins, Susan. "Raising Broilers and Turkeys for Competition." Raising Broilers and Turkeys for Competition - FSA8004 (n.d.): 1-6. Uex.edu. Agriculture and Natural Resources. Web. 20 Jan. 2017. <http://www.uaex.edu/publications/PDF/FSA-8004.pdf>. 
  
 Davis, Mary. "Free Homemade Chicken Brooder Plans." Free Homemade Chicken Brooder Plans. N.p., May 2015. Web. 22 Jan. 2017. <http://www.raisingbackyardchickens101.com/chicken-brooder.html>. 
+
